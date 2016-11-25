@@ -441,11 +441,11 @@ h6,
   color: #000000;
 }
 #menu-12 .link {
-  font-size: 1.7rem;
+  font-size: 1.2rem;
 }
 #menu-12 .dropdown-item,
 #menu-12 .nav-dropdown-sm .link {
-  font-size: 1.841rem;
+  font-size: 1.300rem;
 }
 #menu-12 .link:hover,
 #menu-12 .dropdown-item:hover,
@@ -632,29 +632,5 @@ h6,
   color: #fab5dc;
 }
 #contacts1-j SPAN {
-  text-align: right;
-}
-
-#contacts1-10 P {
-  color: #000000;
-  font-family: 'Montserrat', sans-serif;
-  text-align: right;
-}
-#contacts1-10 STRONG {
-  color: #fab5dc;
-}
-#contacts1-10 SPAN {
-  text-align: right;
-}
-
-#contacts1-11 P {
-  color: #000000;
-  font-family: 'Montserrat', sans-serif;
-  text-align: right;
-}
-#contacts1-11 STRONG {
-  color: #fab5dc;
-}
-#contacts1-11 SPAN {
   text-align: right;
 }
