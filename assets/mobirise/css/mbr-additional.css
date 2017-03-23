@@ -1,6 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
@@ -10,11 +8,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .btn,
 .alert,
@@ -67,23 +65,26 @@ h6,
 .mbr-section-hero .mbr-section-lead,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
-  font-family: 'Lora', serif;
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
 }
 .mbr-author-name {
   font-family: 'Montserrat', sans-serif;
 }
 .mbr-author-desc {
-  font-family: 'Lora', serif;
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
 }
 .mbr-plan-title {
   font-family: 'Montserrat', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Lora', serif;
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
 }
 .bg-primary {
-  background-color: #fcd7ee !important;
+  background-color: #000000 !important;
 }
 .bg-success {
   background-color: #90a878 !important;
@@ -98,8 +99,8 @@ h6,
   background-color: #f28281 !important;
 }
 .btn-primary {
-  background-color: #fcd7ee;
-  border-color: #fcd7ee;
+  background-color: #000000;
+  border-color: #000000;
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -108,14 +109,14 @@ h6,
 .btn-primary:active,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #f790d0;
-  border-color: #f790d0;
+  background-color: #000000;
+  border-color: #000000;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #f790d0 !important;
-  border-color: #f790d0 !important;
+  background-color: #000000 !important;
+  border-color: #000000 !important;
 }
 .btn-secondary {
   background-color: #bfcecb;
@@ -219,8 +220,8 @@ h6,
 }
 .btn-primary-outline {
   background: none;
-  border-color: #f578c6;
-  color: #f578c6;
+  border-color: #000000;
+  color: #000000;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -228,14 +229,14 @@ h6,
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #fcd7ee;
-  border-color: #fcd7ee;
+  background-color: #000000;
+  border-color: #000000;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #fcd7ee !important;
-  border-color: #fcd7ee !important;
+  background-color: #000000 !important;
+  border-color: #000000 !important;
 }
 .btn-secondary-outline {
   background: none;
@@ -338,7 +339,7 @@ h6,
   border-color: #f28281 !important;
 }
 .text-primary {
-  color: #fcd7ee !important;
+  color: #000000 !important;
 }
 .text-success {
   color: #90a878 !important;
@@ -365,36 +366,36 @@ h6,
   background-color: #f28281;
 }
 .btn-social {
-  border-color: #fcd7ee;
+  border-color: #000000;
 }
 .btn-social:hover {
-  background: #fcd7ee;
+  background: #000000;
 }
 .mbr-company .list-group-item.active .list-group-text {
-  color: #fcd7ee;
+  color: #000000;
 }
 .mbr-footer p a,
 .mbr-footer ul a {
-  color: #fcd7ee;
+  color: #000000;
 }
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #fcd7ee;
+  background: #000000;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #fcd7ee;
+  color: #000000;
 }
 .lead a,
 .lead a:hover {
-  color: #fcd7ee;
+  color: #000000;
 }
 .lead blockquote {
-  border-color: #fcd7ee;
+  border-color: #000000;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #b3b3b3;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -414,7 +415,7 @@ h6,
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
-  color: #fcd7ee;
+  color: #000000;
 }
 #menu-12 .hide-buttons .nav-btn {
   display: none !important;
@@ -444,7 +445,7 @@ h6,
 #menu-12 .dropdown-item:hover,
 #menu-12 .link:focus,
 #menu-12 .dropdown-item:focus {
-  color: #fcd7ee;
+  color: #000000;
 }
 #menu-12 .link[aria-expanded="true"],
 #menu-12 .dropdown-menu {
@@ -471,7 +472,7 @@ h6,
 }
 #menu-12 .bg-color.transparent.opened .link:hover,
 #menu-12 .bg-color.transparent.opened .link:focus {
-  color: #fcd7ee;
+  color: #000000;
 }
 #menu-12 .link[aria-expanded="true"],
 #menu-12 .dropdown-item[aria-expanded="true"] {
@@ -613,7 +614,7 @@ h6,
 #menu-2b .dropdown-item:hover,
 #menu-2b .link:focus,
 #menu-2b .dropdown-item:focus {
-  color: #fcd7ee;
+  color: #000000;
 }
 #menu-2b .link[aria-expanded="true"],
 #menu-2b .dropdown-menu {
@@ -640,7 +641,7 @@ h6,
 }
 #menu-2b .bg-color.transparent.opened .link:hover,
 #menu-2b .bg-color.transparent.opened .link:focus {
-  color: #fcd7ee;
+  color: #000000;
 }
 #menu-2b .link[aria-expanded="true"],
 #menu-2b .dropdown-item[aria-expanded="true"] {
@@ -694,7 +695,6 @@ h6,
 }
 
 
-
 #content5-1q .mbr-section-title,
 #content5-1q p {
   color: #fff;
@@ -717,10 +717,6 @@ h6,
 #content5-1r .mbr-section-title,
 #content5-1r p {
   color: #fff;
-}
-#msg-box5-1v P {
-  font-family: 'Montserrat', sans-serif;
-  text-align: center;
 }
 #msg-box5-1z P {
   text-align: center;
@@ -757,7 +753,7 @@ h6,
 #menu-12 .dropdown-item:hover,
 #menu-12 .link:focus,
 #menu-12 .dropdown-item:focus {
-  color: #fcd7ee;
+  color: #000000;
 }
 #menu-12 .link[aria-expanded="true"],
 #menu-12 .dropdown-menu {
@@ -784,7 +780,7 @@ h6,
 }
 #menu-12 .bg-color.transparent.opened .link:hover,
 #menu-12 .bg-color.transparent.opened .link:focus {
-  color: #fcd7ee;
+  color: #000000;
 }
 #menu-12 .link[aria-expanded="true"],
 #menu-12 .dropdown-item[aria-expanded="true"] {
@@ -863,7 +859,7 @@ h6,
 #menu-31 .dropdown-item:hover,
 #menu-31 .link:focus,
 #menu-31 .dropdown-item:focus {
-  color: #fcd7ee;
+  color: #000000;
 }
 #menu-31 .link[aria-expanded="true"],
 #menu-31 .dropdown-menu {
@@ -890,7 +886,7 @@ h6,
 }
 #menu-31 .bg-color.transparent.opened .link:hover,
 #menu-31 .bg-color.transparent.opened .link:focus {
-  color: #fcd7ee;
+  color: #000000;
 }
 #menu-31 .link[aria-expanded="true"],
 #menu-31 .dropdown-item[aria-expanded="true"] {
