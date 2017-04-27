@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "paintingssecond.html",
     "name": "GAIA LUFRANO",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.8.5",
-    "uniqCompNum": 158,
+    "uniqCompNum": 166,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -123,7 +123,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-s\">INTRO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-3i\" aria-expanded=\"true\">ARTWORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"first.html\">PAINTINGS: FIRST<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"second.html\">PAINTINGS: SECOND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">PHOTOGRAPHY&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sketchbooks.html\" aria-expanded=\"false\">SKETCHBOOKS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\" aria-expanded=\"false\">CONTACT ME&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-s\">INTRO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-3i\" aria-expanded=\"false\">ARTWORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"first.html\">PAINTINGS: FIRST<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"second.html\">PAINTINGS: SECOND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">PHOTOGRAPHY&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sketchbooks.html\" aria-expanded=\"false\">SKETCHBOOKS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\" aria-expanded=\"false\">CONTACT ME&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header1",
@@ -427,7 +427,7 @@
             "showText": false,
             "showButton": false
           },
-          "title": "<a href=\"first.html\" class=\"text-white\">PAINTINGS: FIRST</a>",
+          "title": "<a href=\"first.html\" class=\"text-white\">FIRST</a>&nbsp;(paintings, drawings &amp; prints)",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -464,7 +464,7 @@
             "showText": false,
             "showButton": false
           },
-          "title": "<p><a href=\"second.html\" target=\"_blank\" class=\"text-white\">PAINTINGS</a>: SECOND<a href=\"second.html\" target=\"_blank\" class=\"text-white\"></a><a href=\"second.html\" target=\"_blank\" class=\"text-white\"></a><a href=\"paintingssecond.html\" target=\"_blank\" class=\"text-white\"></a></p>",
+          "title": "<p><a href=\"second.html\" class=\"text-white\">SECOND</a>&nbsp;(paintings, drawings &amp; prints)<a href=\"paintingssecond.html\" target=\"_blank\" class=\"text-white\"></a></p>",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -624,7 +624,7 @@
           "_anchor": "contacts1-2l",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -654,31 +654,6 @@
           "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\">GAI</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">A LUFRANO</span><br>",
           "text2": "<strong><br></strong>BASED IN GHENT &amp; ANTWERP<br>",
           "text3": "check my&nbsp;<a href=\"http://www.instagram.com/glaasjesapje/\" target=\"_blank\" class=\"text-black\" style=\"font-size: 0.875rem; background-color: rgb(255, 255, 255); line-height: 1.5;\">Instagram</a><br>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "footer1-13",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/14958961-10210800543240274-833771772-o-2000x2976-69.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
         }
       ]
     },
@@ -791,7 +766,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-s\">INTRO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-3i\" aria-expanded=\"true\">ARTWORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"first.html\">PAINTINGS: FIRST<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"second.html\">PAINTINGS: SECOND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">PHOTOGRAPHY&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sketchbooks.html\" aria-expanded=\"false\">SKETCHBOOKS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\" aria-expanded=\"false\">CONTACT ME&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-s\">INTRO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-3i\" aria-expanded=\"false\">ARTWORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"first.html\">PAINTINGS: FIRST<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"second.html\">PAINTINGS: SECOND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">PHOTOGRAPHY&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sketchbooks.html\" aria-expanded=\"false\">SKETCHBOOKS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\" aria-expanded=\"false\">CONTACT ME&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1223,7 +1198,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-s\">INTRO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-3i\" aria-expanded=\"true\">ARTWORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"first.html\">PAINTINGS: FIRST<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"second.html\">PAINTINGS: SECOND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">PHOTOGRAPHY&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sketchbooks.html\" aria-expanded=\"false\">SKETCHBOOKS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\" aria-expanded=\"false\">CONTACT ME&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-s\">INTRO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-3i\" aria-expanded=\"false\">ARTWORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"first.html\">PAINTINGS: FIRST<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"second.html\">PAINTINGS: SECOND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">PHOTOGRAPHY&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sketchbooks.html\" aria-expanded=\"false\">SKETCHBOOKS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\" aria-expanded=\"false\">CONTACT ME&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1791,7 +1766,7 @@
           "_anchor": "contacts1-2l",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1837,42 +1812,6 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "text-align": "center",
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-34",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "file:///Users/lufrano/Library/Application%20Support/Mobirise.com/Mobirise/projectData/scan%208-2000x1335.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": false
-          },
-          "title": "paintings I made from september 2017 until june 2017",
-          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "color": "#000000",
@@ -1883,6 +1822,9 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "17px"
+            },
+            ".lead P": {
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -1892,7 +1834,7 @@
           "_anchor": "msg-box8-32",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -1906,11 +1848,11 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButton": false
           },
           "title": "<span style=\"line-height: 1.1;\">'Zonnebaden'</span><br>",
-          "text": "<p>GOUACHE / ACRYLIC<br>15 x 10</p>",
+          "text": "<p>GOUACHE / ACRYLIC<br>10 x 15</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -2059,6 +2001,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2068,7 +2013,7 @@
           "_anchor": "msg-box8-49",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -2082,11 +2027,11 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButton": false
           },
           "title": "'The Jonathan series'",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "text": "<p>MONOTYPE<br>21 x 29,7</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -2180,7 +2125,7 @@
               }
             ],
             "spacing": "1",
-            "showText": true,
+            "showText": false,
             "filter": false,
             "bgColor": "#000000",
             "filterBgColor": false,
@@ -2199,7 +2144,7 @@
             ".mbr-section-title": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#000000",
+              "color": "#ff0000",
               "font-size": "48px"
             },
             ".lead": {
@@ -2343,7 +2288,7 @@
             ".mbr-section-title": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#000000",
+              "color": "#ff0000",
               "font-size": "48px"
             },
             ".lead": {
@@ -2366,7 +2311,7 @@
           "_anchor": "msg-box8-47",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -2415,10 +2360,174 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-48",
+          "_anchor": "msg-box8-4f",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "'In Hameln'",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br>work in progress</span><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-11-2000x1408-800x563.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-11-2000x1408.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-13-2000x1417-800x566.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-13-2000x1417.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-14-2000x2342-800x936.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-14-2000x2342.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-16-2000x2389-800x955.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-16-2000x2389.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-17-2000x2317-800x926.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-17-2000x2317.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-9-2000x1404-800x561.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-9-2000x1404.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-10-2000x1417-800x566.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-10-2000x1417.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-12-2000x1403-800x561.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-12-2000x1403.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-3-2000x2854-800x1141.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-3-2000x2854.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-4g",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ff0000",
+              "font-size": "48px"
+            },
+            ".lead": {
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "17px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#000000"
+            },
+            ".lead P": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-48",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -2436,8 +2545,156 @@
             "showButton": false
           },
           "title": "BoX oF WOndeRs",
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br>work in progress</span><br></p>",
+          "text": "<p>MIXED MEDIA<br>10 x 15</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-2-2000x1396-800x558.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-2-2000x1396.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-4-2000x1396-800x558.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-4-2000x1396.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-5-2000x1402-800x560.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-5-2000x1402.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-6-2000x2882-800x1152.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-6-2000x2882.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-8-2000x1297-800x518.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-8-2000x1297.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-1-2000x1383-800x553.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-1-2000x1383.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-2000x1417-800x566.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-2000x1417.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-2-2000x2841-800x1136.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-2-2000x2841.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-1-2000x2953-800x1181.png",
+                "image": "@PROJECT_PATH@/assets/images/scansione-1-2000x2953.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-4h",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-34",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "file:///Users/lufrano/Library/Application%20Support/Mobirise.com/Mobirise/projectData/scan%208-2000x1335.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": false
+          },
+          "title": "paintings I made from september 2017 until june 2017",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
         },
         {
           "_tags": [
@@ -2461,7 +2718,7 @@
           "_anchor": "contacts1-2l",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2574,7 +2831,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-s\">INTRO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-3i\" aria-expanded=\"true\">ARTWORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"first.html\">PAINTINGS: FIRST<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"second.html\">PAINTINGS: SECOND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">PHOTOGRAPHY&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sketchbooks.html\" aria-expanded=\"false\">SKETCHBOOKS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\" aria-expanded=\"false\">CONTACT ME&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-s\">INTRO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-3i\" aria-expanded=\"false\">ARTWORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"first.html\">PAINTINGS: FIRST<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"second.html\">PAINTINGS: SECOND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">PHOTOGRAPHY&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sketchbooks.html\" aria-expanded=\"false\">SKETCHBOOKS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\" aria-expanded=\"false\">CONTACT ME&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -2589,6 +2846,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2623,6 +2883,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2657,6 +2920,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2670,7 +2936,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#f4dae7",
+            "bgColor": "#ffd4d4",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2683,7 +2949,7 @@
             "showText": false,
             "showButton": false
           },
-          "title": "<a href=\"paintingsfirst.html\" target=\"_blank\" class=\"text-white\">'The Cheese series'</a>",
+          "title": "<a href=\"paintingsfirst.html#content5-1q\" target=\"_blank\" class=\"text-white\">'The Cheese series'</a>",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -2691,6 +2957,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2717,7 +2986,44 @@
             "showText": false,
             "showButton": false
           },
-          "title": "<a href=\"paintingsfirst.html\" class=\"text-white\">prints</a>",
+          "title": "<a href=\"paintingsfirst.html#msg-box8-4c\" class=\"text-white\">prints</a>",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#aae2ff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4j",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/scansione-10-2000x2530.jpg",
+            "bgColor": "#00dcae",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "<a href=\"paintingsfirst.html/msg-box8-4k\" class=\"text-white\">en de rest</a>",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -2803,7 +3109,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-s\">INTRO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-3i\" aria-expanded=\"true\">ARTWORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"first.html\">PAINTINGS: FIRST<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"second.html\">PAINTINGS: SECOND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">PHOTOGRAPHY&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sketchbooks.html\" aria-expanded=\"false\">SKETCHBOOKS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\" aria-expanded=\"false\">CONTACT ME&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-s\">INTRO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-3i\" aria-expanded=\"false\">ARTWORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"first.html\">PAINTINGS: FIRST<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"second.html\">PAINTINGS: SECOND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">PHOTOGRAPHY&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sketchbooks.html\" aria-expanded=\"false\">SKETCHBOOKS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\" aria-expanded=\"false\">CONTACT ME&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2827,7 +3133,7 @@
           "_anchor": "contacts1-3r",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2871,6 +3177,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2905,6 +3214,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2977,7 +3289,7 @@
             "showText": false,
             "showButton": false
           },
-          "title": "<a href=\"paintingssecond.html\" class=\"text-white\">'Zonnebaden'</a>",
+          "title": "<a href=\"paintingssecond.html#msg-box8-32\" class=\"text-white\">'Zonnebaden'</a>",
           "text": "<p>GOUACHE / ACRYLIC<br>15 x 10</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -3010,13 +3322,13 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.1",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": false,
             "showButton": false
           },
-          "title": "<a href=\"paintingssecond.html\" class=\"text-white\">'The Jonathan series'</a>",
+          "title": "<a href=\"paintingssecond.html#msg-box8-49\" class=\"text-white\">'The Jonathan series'</a>",
           "text": "<p>MONOTYPE</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -3024,6 +3336,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -3050,7 +3365,7 @@
             "showText": false,
             "showButton": false
           },
-          "title": "<a href=\"paintingssecond.html\" class=\"text-white\">'The Table'</a>",
+          "title": "<a href=\"paintingssecond.html#msg-box8-46\" class=\"text-white\">'The Table'</a>",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -3058,6 +3373,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -3084,7 +3402,7 @@
             "showText": false,
             "showButton": false
           },
-          "title": "<a href=\"paintingssecond.html\" class=\"text-white\">'Niets'</a>",
+          "title": "<a href=\"paintingssecond.html#msg-box8-47\" class=\"text-white\">'Niets'</a>",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -3092,6 +3410,46 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4e",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/schermata-2017-04-21-alle-21-2000x747.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#fac51c",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "<a href=\"paintingssecond.html/msg-box8-4f\" class=\"text-white\">'In Hamelen'</a>",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -3112,13 +3470,13 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.2",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": false,
             "showButton": false
           },
-          "title": "<a href=\"paintingssecond.html\" class=\"text-warning\">BoX oF WOndeRs</a>",
+          "title": "<a href=\"paintingssecond.html#msg-box8-48\" class=\"text-danger\">BoX oF WOndeRs</a>",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -3144,7 +3502,7 @@
           "_anchor": "contacts1-3r",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3257,7 +3615,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-s\">INTRO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-3i\" aria-expanded=\"true\">ARTWORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"first.html\">PAINTINGS: FIRST<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"second.html\">PAINTINGS: SECOND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">PHOTOGRAPHY&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sketchbooks.html\" aria-expanded=\"false\">SKETCHBOOKS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\" aria-expanded=\"false\">CONTACT ME&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-s\">INTRO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-3i\" aria-expanded=\"false\">ARTWORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"first.html\">PAINTINGS: FIRST<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"second.html\">PAINTINGS: SECOND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">PHOTOGRAPHY&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sketchbooks.html\" aria-expanded=\"false\">SKETCHBOOKS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\" aria-expanded=\"false\">CONTACT ME&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -3268,42 +3626,6 @@
         "order": 3
       },
       "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "text-align": "center",
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-4b",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "file:///Users/lufrano/Library/Application%20Support/Mobirise.com/Mobirise/projectData/scan%208-2000x1335.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": false
-          },
-          "title": "paintings I made from september 2016 until june 2016",
-          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
-        },
         {
           "_styles": {
             ".mbr-section-title, p": {
@@ -3452,7 +3774,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img006-1400x984.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img006-1-1400x984.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -3556,7 +3878,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-s\">INTRO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-3i\" aria-expanded=\"true\">ARTWORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"first.html\">PAINTINGS: FIRST<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"second.html\">PAINTINGS: SECOND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">PHOTOGRAPHY&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sketchbooks.html\" aria-expanded=\"false\">SKETCHBOOKS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\" aria-expanded=\"false\">CONTACT ME&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-s\">INTRO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-3i\" aria-expanded=\"false\">ARTWORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"first.html\">PAINTINGS: FIRST<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"second.html\">PAINTINGS: SECOND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">PHOTOGRAPHY&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sketchbooks.html\" aria-expanded=\"false\">SKETCHBOOKS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\" aria-expanded=\"false\">CONTACT ME&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -3628,7 +3950,7 @@
             ".mbr-section-title": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#000000",
+              "color": "#ff0000",
               "font-size": "48px"
             },
             ".lead": {
@@ -3665,12 +3987,251 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false
           },
           "title": "prints",
           "text": "work in progress",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-2-2000x1417-800x566.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-2-2000x1417.jpg",
+                "caption": "etching / 10x15",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-1-2000x2799-800x1119.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-1-2000x2799.jpg",
+                "caption": "woodcut / 10,5x21",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-5-2000x2638-800x1055.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-5-2000x2638.jpg",
+                "caption": "monotype / 10,5x21",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-7-2000x1566-800x626.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-7-2000x1566.jpg",
+                "caption": "etching / 10,5x21",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-12-2000x1507-800x602.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-12-2000x1507.jpg",
+                "caption": "etching / 10,5x21",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-8-2000x2748-800x1099.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-8-2000x2748.jpg",
+                "caption": "etching / 21x29,7",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-9-2000x2540-800x1016.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-9-2000x2540.jpg",
+                "caption": "monotype / 10,5x21",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-10-2000x2530-800x1012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-10-2000x2530.jpg",
+                "caption": "monotype / 10,5x21",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-11-2000x2748-800x1099.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-11-2000x2748.jpg",
+                "caption": "monotype / 29,7x42",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": true,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-4i",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#aae2ff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4k",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "en de rest",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-3-2000x2992-800x1196.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-3-2000x2992.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-4-2000x2716-800x1086.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-4-2000x2716.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scansione-6-2000x2791-800x1116.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scansione-6-2000x2791.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-4l",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-4b",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "file:///Users/lufrano/Library/Application%20Support/Mobirise.com/Mobirise/projectData/scan%208-2000x1335.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": false
+          },
+          "title": "paintings I made from september 2016 until june 2016",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
         },
         {
           "_tags": [
@@ -3694,7 +4255,7 @@
           "_anchor": "contacts1-2l",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",

@@ -579,9 +579,6 @@ h6,
 #contacts1-2l SPAN {
   text-align: right;
 }
-#footer1-13 P {
-  text-align: right;
-}
 #header3-2f .mbr-section-title,
 #header3-2f .mbr-section-subtitle {
   text-align: center;
@@ -763,14 +760,8 @@ h6,
 
 
 
-#content5-34 .mbr-section-title,
-#content5-34 p {
-  color: #fff;
-}
-#content5-34 .mbr-section-title {
-  text-align: center;
-  color: #000000;
-}
+
+
 #msg-box8-32 .mbr-section-title,
 #msg-box8-32 p {
   color: #fff;
@@ -785,9 +776,15 @@ h6,
   font-family: 'Montserrat', sans-serif;
   font-size: 17px;
 }
+#msg-box8-32 .lead P {
+  color: #000000;
+}
 #msg-box8-49 .mbr-section-title,
 #msg-box8-49 p {
   color: #fff;
+}
+#msg-box8-49 .mbr-section-title {
+  color: #ffffff;
 }
 #msg-box8-46 .mbr-section-title,
 #msg-box8-46 p {
@@ -795,7 +792,7 @@ h6,
 }
 #msg-box8-46 .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
-  color: #000000;
+  color: #ff0000;
   font-size: 48px;
 }
 #msg-box8-46 .lead {
@@ -815,7 +812,7 @@ h6,
 }
 #msg-box8-47 .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
-  color: #000000;
+  color: #ff0000;
   font-size: 48px;
 }
 #msg-box8-47 .lead {
@@ -829,13 +826,33 @@ h6,
 #msg-box8-47 .lead P {
   color: #000000;
 }
+#msg-box8-4f .mbr-section-title,
+#msg-box8-4f p {
+  color: #fff;
+}
+#msg-box8-4f .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
+  color: #000000;
+  font-size: 48px;
+}
+#msg-box8-4f .lead {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+}
+#msg-box8-4f .mbr-section-title SPAN {
+  color: #000000;
+}
+#msg-box8-4f .lead P {
+  color: #000000;
+}
 #msg-box8-48 .mbr-section-title,
 #msg-box8-48 p {
   color: #fff;
 }
 #msg-box8-48 .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
-  color: #000000;
+  color: #ff0000;
   font-size: 48px;
 }
 #msg-box8-48 .lead {
@@ -847,6 +864,14 @@ h6,
   color: #000000;
 }
 #msg-box8-48 .lead P {
+  color: #000000;
+}
+#content5-34 .mbr-section-title,
+#content5-34 p {
+  color: #fff;
+}
+#content5-34 .mbr-section-title {
+  text-align: center;
   color: #000000;
 }
 #contacts1-2l P {
@@ -926,17 +951,36 @@ h6,
 #msg-box8-3n p {
   color: #fff;
 }
+#msg-box8-3n .mbr-section-title {
+  color: #ffffff;
+}
 #msg-box8-3q .mbr-section-title,
 #msg-box8-3q p {
   color: #fff;
+}
+#msg-box8-3q .mbr-section-title {
+  color: #ffffff;
 }
 #msg-box8-3o .mbr-section-title,
 #msg-box8-3o p {
   color: #fff;
 }
+#msg-box8-3o .mbr-section-title {
+  color: #ffffff;
+}
 #msg-box8-3p .mbr-section-title,
 #msg-box8-3p p {
   color: #fff;
+}
+#msg-box8-3p .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box8-4j .mbr-section-title,
+#msg-box8-4j p {
+  color: #fff;
+}
+#msg-box8-4j .mbr-section-title {
+  color: #aae2ff;
 }
 #menu-3m .hide-buttons .nav-btn {
   display: none !important;
@@ -1018,9 +1062,15 @@ h6,
 #msg-box8-3t p {
   color: #fff;
 }
+#msg-box8-3t .mbr-section-title {
+  color: #ffffff;
+}
 #msg-box8-3z .mbr-section-title,
 #msg-box8-3z p {
   color: #fff;
+}
+#msg-box8-3z .mbr-section-title {
+  color: #ffffff;
 }
 #msg-box8-3v .mbr-section-title,
 #msg-box8-3v p {
@@ -1048,13 +1098,29 @@ h6,
 #msg-box8-3x p {
   color: #fff;
 }
+#msg-box8-3x .mbr-section-title {
+  color: #ffffff;
+}
 #msg-box8-40 .mbr-section-title,
 #msg-box8-40 p {
   color: #fff;
 }
+#msg-box8-40 .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box8-4e .mbr-section-title,
+#msg-box8-4e p {
+  color: #fff;
+}
+#msg-box8-4e .mbr-section-title {
+  color: #ffffff;
+}
 #msg-box8-41 .mbr-section-title,
 #msg-box8-41 p {
   color: #fff;
+}
+#msg-box8-41 .mbr-section-title {
+  color: #ffffff;
 }
 #contacts1-3r P {
   color: #000000;
@@ -1133,14 +1199,6 @@ h6,
 
 
 
-#content5-4b .mbr-section-title,
-#content5-4b p {
-  color: #fff;
-}
-#content5-4b .mbr-section-title {
-  text-align: center;
-  color: #000000;
-}
 #content5-1q .mbr-section-title,
 #content5-1q p {
   color: #fff;
@@ -1235,7 +1293,7 @@ h6,
 }
 #msg-box8-4c .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
-  color: #000000;
+  color: #ff0000;
   font-size: 48px;
 }
 #msg-box8-4c .lead {
@@ -1247,6 +1305,21 @@ h6,
   color: #000000;
 }
 #msg-box8-4c .lead P {
+  color: #000000;
+}
+#msg-box8-4k .mbr-section-title,
+#msg-box8-4k p {
+  color: #fff;
+}
+#msg-box8-4k .mbr-section-title {
+  color: #aae2ff;
+}
+#content5-4b .mbr-section-title,
+#content5-4b p {
+  color: #fff;
+}
+#content5-4b .mbr-section-title {
+  text-align: center;
   color: #000000;
 }
 #contacts1-2l P {
